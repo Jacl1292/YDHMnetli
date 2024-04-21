@@ -20,16 +20,6 @@ import './fonts/icomoon/style.css'
 
 import './css/owl.theme.default.min.css'
 
-import Navbar from "./componets/navbar";
-import Aboutus from "./componets/aboutus";
-import Howitw from "./componets/howitw";
-import Ourteam from "./componets/ourteam";
-import Ourservice from "./componets/ourservice";
-import Industrie from "./componets/industrie";
-import Testimonial from "./componets/testimonial";
-import Ourblog from "./componets/ourblog";
-import Contact from "./componets/contact";
-import Footer from "./componets/footer";
 
 import { Aboutusv } from "./view/aboutusv";
 import { Home } from "./view/home1";

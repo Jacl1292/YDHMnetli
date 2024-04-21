@@ -7,7 +7,7 @@ export const Industrie = () => {
    return(
     <div className="site-section block-13 " id="section-industries">
 
-        <div className="container">
+       {/* <div className="container">
           <div className="row justify-content-center mb-5">
             <div className="col-md-7 text-center border-primary">
               <h2 className="mb-0 text-custom" data-aos="fade" data-aos-delay="100">Industries</h2>
@@ -79,7 +79,7 @@ export const Industrie = () => {
           </div>
 
         </OwlCarousel>
-
+        */}
 
       </div>
 

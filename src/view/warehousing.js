@@ -20,7 +20,7 @@ export const Warehousing = () => {
                     <div className="row justify-content-center mb-5">
 
                         <div className="col-sm-6 col-md-6 ml-auto mb-5 order-md-2" data-aos="fade-up" data-aos-delay="100">
-                            <img src={require(`../images/warehousingdescription.jpeg`)} alt="Image" className="img-fluid rounded" />
+                            <img src={require(`../images/warehousingdescription.jpeg`)} alt="" className="img-fluid rounded" />
                         </div>
                         <div className=" col-sm-6 col-md-6 order-md-1" data-aos="fade-up">
 

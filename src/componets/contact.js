@@ -202,7 +202,7 @@ export const Contact = () => {
                             <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsa ad iure porro mollitia architecto hic consequuntur. Distinctio nisi perferendis dolore, ipsa consectetur? Fugiat quaerat eos qui, libero neque sed nulla.</p>
                             <p><a href="#" className="btn btn-primary px-4 py-2 text-white" >Learn More</a></p>
                                 */}
-                                <img src={require(`../images/YDHMlogo-removebg-preview.png`)} alt="Image" className="img-fluid" />
+                                <img src={require(`../images/YDHMlogo-removebg-preview.png`)} alt="" className="img-fluid" />
                                 
                          </div>
                          <div className="p-4 mb-3 bg-white">

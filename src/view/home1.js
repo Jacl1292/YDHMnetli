@@ -1,7 +1,7 @@
 import React from "react"
 
 import Aboutus from "../componets/aboutus"
-import Industrie from "../componets/industrie"
+
 import Testimonial from "../componets/testimonial"
 import Contact from "../componets/contact"
 import Footer from "../componets/footer"

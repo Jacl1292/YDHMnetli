@@ -1,5 +1,5 @@
 import React from "react";
-
+import { Link } from "react-router-dom";
 
 export const Ourservice = () => {
 
@@ -20,7 +20,7 @@ export const Ourservice = () => {
                 <div>
                   <h3>Air Freight</h3>
                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
-                  <p><a href="#">Learn More</a></p>
+                  <p><Link to="#">Learn More</Link></p>
                 </div>
               </div>
             </div>
@@ -30,7 +30,7 @@ export const Ourservice = () => {
                 <div>
                   <h3>Ocean Freight</h3>
                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
-                  <p><a href="#">Learn More</a></p>
+                  <p><Link to="#">Learn More</Link></p>
                 </div>
               </div>
             </div>
@@ -40,7 +40,7 @@ export const Ourservice = () => {
                 <div>
                   <h3>Land Transportation</h3>
                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
-                  <p><a href="#">Learn More</a></p>
+                  <p><Link to="#">Learn More</Link></p>
                 </div>
               </div>
             </div>
@@ -52,7 +52,7 @@ export const Ourservice = () => {
                 <div>
                   <h3>Warehousing</h3>
                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
-                  <p><a href="#">Learn More</a></p>
+                  <p><Link to="#">Learn More</Link></p>
                 </div>
               </div>
             </div>
@@ -62,7 +62,7 @@ export const Ourservice = () => {
                 <div>
                   <h3>Storage</h3>
                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
-                  <p><a href="#">Learn More</a></p>
+                  <p><Link to="#">Learn More</Link></p>
                 </div>
               </div>
             </div>
@@ -72,7 +72,7 @@ export const Ourservice = () => {
                 <div>
                   <h3>Worldwide Delivery</h3>
                   <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perferendis quis molestiae vitae eligendi at.</p>
-                  <p><a href="#">Learn More</a></p>
+                  <p><Link to="#">Learn More</Link></p>
                 </div>
               </div>
             </div>

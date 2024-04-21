@@ -15,7 +15,7 @@ export const Cardservice = () => {
                 <div className="row mb-5 align-items-stretch">
                     <div className="col-md-6 col-lg-6 mb-3 mb-lg-3" data-aos="fade-up">
                         <div className="h-entry">
-                            <img src={require(`../images/camionamarillo.jpeg`)} alt="Image" className="img-fluid" />
+                            <img src={require(`../images/camionamarillo.jpeg`)} alt="" className="img-fluid" />
                             <h2 className="font-size-regular"><Link to="/Services/transportation">Transport Services</Link></h2>
                             <div className="meta mb-4">LTL, FTL, Distribution, Box Trucks</div>
                             <p>Are you seeking efficient and dependable transport services to streamline your logistics needs? Look no
@@ -27,7 +27,7 @@ export const Cardservice = () => {
                     </div>
                     <div className="col-md-6 col-lg-6 mb-3 mb-lg-3" data-aos="fade-up" data-aos-delay="100">
                         <div className="h-entry">
-                            <img src={require(`../images/warehousingprincipal.jpeg`)} alt="Image" className="img-fluid" />
+                            <img src={require(`../images/warehousingprincipal.jpeg`)} alt="" className="img-fluid" />
                             <h2 className="font-size-regular"><Link to="/Services/Warehousing">Warehousing Services</Link></h2>
                             <div className="meta mb-4">Inventory Management, Order Fulfillment, Distribution Services, Customer Service.</div>
                             <p>At YDHM Logistics Corp. we offer more than just storage – we provide comprehensive warehousing

@@ -26,7 +26,7 @@ export const Testimonial = () => {
         <div className='item' data-aos="zoom-in-down">
           <div className="testimonial">
             <figure className="mb-4">
-              <img src={require(`../images/Jorgecasañas.jpeg`)} alt="Image" className="img-fluid mb-3" />
+              <img src={require(`../images/Jorgecasañas.jpeg`)} alt="" className="img-fluid mb-3" />
 
             </figure>
             <blockquote>
@@ -38,7 +38,7 @@ export const Testimonial = () => {
         <div className='item' data-aos="zoom-in-down">
           <div className="testimonial">
             <figure className="mb-4">
-              <img src={require(`../images/Carloscuadra.jpeg`)} alt="Image" className="img-fluid mb-3" />
+              <img src={require(`../images/Carloscuadra.jpeg`)} alt="" className="img-fluid mb-3" />
 
             </figure>
             <blockquote>
@@ -50,7 +50,7 @@ export const Testimonial = () => {
         <div className='item' data-aos="zoom-in-down">
           <div className="testimonial">
             <figure className="mb-4">
-              <img src={require(`../images/person_4.jpg`)} alt="Image" className="img-fluid mb-3" />
+              <img src={require(`../images/person_4.jpg`)} alt="" className="img-fluid mb-3" />
             </figure>
             <blockquote>
               <p>&ldquo;Efficiency, accuracy, and a true understanding of our industry – that's what YDHM Logistic Corp. brings to the table. Their use of advanced technology, such as Warehouse Management Systems, has revolutionized the way we manage our inventory. We are impressed with their commitment to innovation and the seamless experience they provide.&rdquo;</p>
@@ -61,7 +61,7 @@ export const Testimonial = () => {
         {/*<div className='item' data-aos="zoom-in-down">
           <div className="testimonial">
             <figure className="mb-4">
-              <img src={require(`../images/person_5.jpg`)} alt="Image" className="img-fluid mb-3" />
+              <img src={require(`../images/person_5.jpg`)} alt="" className="img-fluid mb-3" />
             </figure>
             <blockquote>
               <p>&ldquo;Lorem ipsum dolor sit amet consectetur adipisicing elit. Consectetur unde reprehenderit aperiam quaerat fugiat repudiandae explicabo animi minima fuga beatae illum eligendi incidunt consequatur. Amet dolores excepturi earum unde iusto.&rdquo;</p>
