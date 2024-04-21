@@ -27,9 +27,9 @@ export const Contact = () => {
     const handleSubmit = (e) => {
         e.preventDefault();
 
-       const serviceID = "service_bqf0m2w";
-       const templateID = "template_dqw8mes";
-       const apiKey = "X-wQXPZ-f_h8COgtA";
+        const serviceID = process.env.REACT_APP_serviceID;
+        const templateID = process.env.REACT_APP_templateID;
+        const apiKey = process.env.REACT_APP_apiKey;
 
 
         // Validar los campos del formulario
